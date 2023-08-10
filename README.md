@@ -6,12 +6,9 @@ this project creates a web application that acts as a book searching engine. Use
 
 ## Media
 
-[Click here to go to deployed Heroku site](https://pwa-text-jate-73871fea92c2.herokuapp.com/)
+[Click here to go to deployed Heroku site](https://book-seacher-a13a2f51ce14.herokuapp.com/)
 
-Screenshot of deployed site:
-
-![localhost_3000_](https://github.com/frostyfaust/PWA-Text-Editor/assets/55112932/25c6a7d3-6e21-4f26-bcc3-f71192d5b983)
-
+![localhost_3000_ (1)](https://github.com/frostyfaust/book-Search-Engine/assets/55112932/035b1b01-842f-4345-a710-629c19e63716)
 
 ## Technologies Used
 
